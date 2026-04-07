@@ -2,11 +2,11 @@
 
 Effective date: April 7, 2026
 
-This Privacy Policy applies to **Image2WebP** (the "App").
+This Privacy Policy applies to **Transcoding+Compress+Frame** (the "App").
 
 ## 1. Summary
 
-Image2WebP is a local image and video processing app for macOS. The App is designed to process your selected files on your device.
+Transcoding+Compress+Frame is a local image and video processing app for macOS. The App is designed to process your selected files on your device.
 
 We do **not** use third-party analytics SDKs, advertising SDKs, or custom tracking systems in the App.
 
