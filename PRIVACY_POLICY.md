@@ -102,4 +102,7 @@ This Privacy Policy may be updated from time to time. When updated, the revised 
 
 ## 13. Contact
 
-For questions about this Privacy Policy, please use the contact method listed on the App's official GitHub repository page or app listing.
+For questions about this Privacy Policy, please contact:
+
+**Bie Qiutian (别秋田)**  
+Email: bieqiutianios@163.com
